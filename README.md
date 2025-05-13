@@ -10,6 +10,7 @@ Crawl and Create Dataset:
 - Crawl Data from Website and Clean Data: Retrieved raw data and standardized it for consistency and accuracy.
 - Create a Function to Auto-generate Exchange Rate: Designed a reusable function to automate the scraping process.
 - Fetch Exchange Rate Data for a Time Range and Save to a File: Applied the function over a time range and consolidated the output.
+
 Analyzing Currency Exchange Rate:
 - Current Exchange Rate Analysis and Outlier Detection: Identified high-value currencies and detected extreme outliers like the Kuwaiti Dinar (KWD) using box plots.
 - Currency Volatility and Appreciation/Depreciation Trends: Assessed the fluctuation of exchange rates and evaluated which currencies were strengthening or weakening.
